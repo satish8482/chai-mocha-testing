@@ -1,0 +1,23 @@
+{
+  "name": "chai-mocha-testing",
+  "version": "1.0.0",
+  "description": "Basic sample chai mocha testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satish8482/chai-mocha-testing.git"
+  },
+  "author": "Satish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satish8482/chai-mocha-testing/issues"
+  },
+  "homepage": "https://github.com/satish8482/chai-mocha-testing#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
